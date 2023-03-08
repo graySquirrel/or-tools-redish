@@ -1,0 +1,101 @@
+origin_id,destination_id,distance in meters,duration in seconds
+Re-Dish,Re-Dish,0,0
+Re-Dish,White Case,14502,1895
+Re-Dish,MOMA,14531,1851
+Re-Dish,Loreal,11288,1930
+Re-Dish,SIS Cooper,4228,975
+Re-Dish,JP Morgan,4035,848
+Re-Dish,Berkeley Carroll,5548,1391
+Re-Dish,SIS Wadsworth,20082,1766
+Re-Dish,Brearly,9519,1807
+Re-Dish,L'Oreal NJ,41720,3113
+White Case,Re-Dish,13408,1670
+White Case,White Case,0,0
+White Case,MOMA,740,268
+White Case,Loreal,3322,838
+White Case,SIS Cooper,27310,2196
+White Case,JP Morgan,12042,1622
+White Case,Berkeley Carroll,14709,2163
+White Case,SIS Wadsworth,27093,2176
+White Case,Brearly,31648,3057
+White Case,L'Oreal NJ,44075,2632
+MOMA,Re-Dish,13621,1671
+MOMA,White Case,1384,483
+MOMA,MOMA,0,0
+MOMA,Loreal,4000,1037
+MOMA,SIS Cooper,27522,2198
+MOMA,JP Morgan,12254,1623
+MOMA,Berkeley Carroll,14921,2165
+MOMA,SIS Wadsworth,27306,2177
+MOMA,Brearly,31860,3058
+MOMA,L'Oreal NJ,44979,2816
+Loreal,Re-Dish,13960,1930
+Loreal,White Case,2460,713
+Loreal,MOMA,3202,870
+Loreal,Loreal,0,0
+Loreal,SIS Cooper,27862,2457
+Loreal,JP Morgan,8627,1615
+Loreal,Berkeley Carroll,12501,1863
+Loreal,SIS Wadsworth,22557,1927
+Loreal,Brearly,19920,2963
+Loreal,L'Oreal NJ,42864,2103
+SIS Cooper,Re-Dish,4133,1014
+SIS Cooper,White Case,28293,2494
+SIS Cooper,MOMA,28323,2450
+SIS Cooper,Loreal,28914,2601
+SIS Cooper,SIS Cooper,0,0
+SIS Cooper,JP Morgan,7459,1793
+SIS Cooper,Berkeley Carroll,8444,1679
+SIS Cooper,SIS Wadsworth,30067,2519
+SIS Cooper,Brearly,5978,1388
+SIS Cooper,L'Oreal NJ,54641,4078
+JP Morgan,Re-Dish,3808,672
+JP Morgan,White Case,12518,1737
+JP Morgan,MOMA,12535,1697
+JP Morgan,Loreal,8444,1407
+JP Morgan,SIS Cooper,8036,1648
+JP Morgan,JP Morgan,0,0
+JP Morgan,Berkeley Carroll,2668,726
+JP Morgan,SIS Wadsworth,16357,1418
+JP Morgan,Brearly,10688,2017
+JP Morgan,L'Oreal NJ,38875,2590
+Berkeley Carroll,Re-Dish,6142,1285
+Berkeley Carroll,White Case,17822,2328
+Berkeley Carroll,MOMA,17839,2287
+Berkeley Carroll,Loreal,12540,1860
+Berkeley Carroll,SIS Cooper,7593,1543
+Berkeley Carroll,JP Morgan,2996,919
+Berkeley Carroll,Berkeley Carroll,0,0
+Berkeley Carroll,SIS Wadsworth,14237,1344
+Berkeley Carroll,Brearly,8962,1628
+Berkeley Carroll,L'Oreal NJ,38820,2899
+SIS Wadsworth,Re-Dish,21133,1939
+SIS Wadsworth,White Case,28632,2443
+SIS Wadsworth,MOMA,28650,2403
+SIS Wadsworth,Loreal,23351,1976
+SIS Wadsworth,SIS Cooper,31336,2566
+SIS Wadsworth,JP Morgan,19004,1734
+SIS Wadsworth,Berkeley Carroll,17216,1500
+SIS Wadsworth,SIS Wadsworth,0,0
+SIS Wadsworth,Brearly,27669,1892
+SIS Wadsworth,L'Oreal NJ,26843,2024
+Brearly,Re-Dish,9787,1896
+Brearly,White Case,25259,3293
+Brearly,MOMA,25277,3253
+Brearly,Loreal,19978,2825
+Brearly,SIS Cooper,5978,1334
+Brearly,JP Morgan,10979,2187
+Brearly,Berkeley Carroll,9422,1775
+Brearly,SIS Wadsworth,26265,1749
+Brearly,Brearly,0,0
+Brearly,L'Oreal NJ,50839,3308
+L'Oreal NJ,Re-Dish,42156,3200
+L'Oreal NJ,White Case,42328,2615
+L'Oreal NJ,MOMA,43371,2767
+L'Oreal NJ,Loreal,42164,2276
+L'Oreal NJ,SIS Cooper,54658,4044
+L'Oreal NJ,JP Morgan,39239,2815
+L'Oreal NJ,Berkeley Carroll,40537,2978
+L'Oreal NJ,SIS Wadsworth,26756,2003
+L'Oreal NJ,Brearly,50990,3370
+L'Oreal NJ,L'Oreal NJ,0,0
